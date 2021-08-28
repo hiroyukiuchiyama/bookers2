@@ -17,3 +17,4 @@
     # the framework and any gems in your application.
   #end
 #end
+Refile.secret_key = 'd3224934b5d2ec168feb815e17e69d7a84e3d2a2dc00130971b7d731480ae726158225a1da6397b8fa4bae069aaa628ee6bf36f426f9fc32908be316265762a9'
